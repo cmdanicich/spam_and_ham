@@ -1,0 +1,21 @@
+What to Submit
+
+Data Set
+Submit the actual data. You can do this with a file upload to Moodle if the data set is under 500 MB. If your data is available publicly, 
+feel free to share it via a link. If your data is too big to upload, you can submit it via a Box/DropBox/Drive link as well.  
+
+Write up
+I’d like a short write up about your data set, that should include the following sections: 
+1.	Data set source: where did you find the data? What prompted you to seek it out? 
+2.	Data set description: What are the basic facts about the data? How was it generated? Does it have any known limitations? 
+3.	Descriptive statistics: Give us a basic feel for the data set. How big is it? How many different “units” 
+    (conversations/reviews/pages/etc) are there? How many tokens? Etc. This is a good time to mention anything that might be idiosyncratic in the data, 
+    such as special cleaning needs (things like acronyms or proper nouns or emojis). 
+4.	Interesting questions: List some interesting questions we could answer by analyzing these data. 
+5.	Approach for a single question: For one of your questions, outline what steps you’d need to take to answer it. 
+    Use techniques like those we discuss in the class. 
+
+Link to GitHub Repo (Optional)
+Many of you will probably use code to assemble the data set, whether via an API or web scraping. 
+If you use code, please put that code in a GitHub repository (not part of our Classroom account—part of your personal GitHub account). 
+Share a link to that repository. Make sure your code conforms to our style guides and includes comments. 
